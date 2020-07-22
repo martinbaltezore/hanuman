@@ -4,29 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+I am an US Army veteran that served in both Afghanistan and Iraq. During my time in the Army I had the privilege to see and experience life in these two countries. Part of that experience was learning more about islam and how beautiful those two countries are. My job while I was there was both radio specialist where I was able to help keep radios going for both the military and for some of the projects to bring awareness that the US Army was there to help them thrive and keep the bad guys from exploiting them. Then I went back to school and became a information techology specialist where I learned how to not only work the IT helpdesk role, but to also work in network operations. I had the opportunity to work on routers, switches, satellite communications, and more. After my second enlistment I made the decision to leave the military to be able to spend more time with my daughter. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
+After working a desktop support role I made the decision once again to go back to school and become a Computer Science Major. When I started my Journey to becoming a Computer Sciencist I was met with barriers such as being told it might not be a great idea seeing that I didnt have very much math under my belt. However, I didn't let that get in my way, I stuck to my guns and I started at pre-algebra and worked my way to Calculus. Before entering my Computer Science journey I also had no programming under my belt either except for some HTML that I knew from building websites during the geocities days. After a long journey of pushing myself I have finally made it to my last semester of undergraduate.
 
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat,
-eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum
-elementum molestie. Quisque eget dui ac quam placerat dictum. Suspendisse quis
-ante placerat, efficitur enim ut, commodo tortor. Etiam consequat, eros quis
-consequat congue, augue mauris molestie libero, sed iaculis lectus enim eu magna.
+I am also a avid gardener in which I try to add all of the things that I have learned during school to create automated systems tailored to my gardening needs. I have all of the plant you can think to grow when it comes to vegetables for both summer and winter seasons. Besides gardening I love to 3d print things on my two printers such as puzzles, key chains, drones, and other things that might be useful. I am also currently getting into wine and beer making in which I hope to one day be able to make my own beer and wine with the hops and grapes that I grew myself.
 
-Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
- vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
- pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
- Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+Currently, I am now working at Lawrence Livermore National Laboratory as a intern working in the HPC Academy portion of the computing department. I am having a great time learning about super computers and being able to build my own node clusters. I am working with ansible, C, kickstart, python, and bash to learn how to optimize code at the low level and to automate repeated processes. I have also had the pleasure of meeting a ton of wonderful and bright mentors that have been very encouraging and helpful. I am so happy with my summer! If you have made it this far, Thank you for reading a little bit about me! I hope you find something here that can be helpful for you!
