@@ -2,6 +2,5 @@
   url: /
 
 - title: About
-  url: about
-- resume: resume
-  url: resume.html
+  url: /about
+  
