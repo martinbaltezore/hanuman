@@ -1,5 +1,7 @@
 - title: Home
-  url: 
+  url: /
 
 - title: About
-  url: /about/
+  url: about
+- resume: resume
+  url: resume.html
