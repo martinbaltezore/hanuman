@@ -18,13 +18,14 @@ pagination:
   per_page: 5
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+#facebook: facebook
+#twitter: twitter
+github:  https://github.com/martinbaltezore
 
 #Additional Pages
-about: About
+about: about
 contact: contact
+resume: resume
 privacy-policy: privacy-policy
 
 
