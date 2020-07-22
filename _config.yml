@@ -1,6 +1,6 @@
 # Site settings
 title: Martin Baltezore
-description: Martin Baltezore
+description: I am a coder and a gardener.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -47,13 +47,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
+username: martinbaltezore #github username
 repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
 production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+source_url:  https://github.com/martinbaltezore/hanuman #source repository url
 
 exclude:
   - README.md
