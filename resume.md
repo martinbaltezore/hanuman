@@ -1,6 +1,6 @@
 ---
 title: "Martin Baltezore"
-layout: resume
+layout: Resume
 permalink: /resume/
 ---
 # Martin Baltezore    
