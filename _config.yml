@@ -2,7 +2,7 @@
 title: Martin Baltezore
 description: I am a coder and a gardener.
 cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
+logo: assets/images/tomato.jpg
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://martinbaltezore.github.io" # the base hostname & protocol for your site
@@ -26,7 +26,7 @@ github:  martinbaltezore
 about: about
 contact: contact
 resume: resume
-privacy-policy: privacy-policy
+#privacy-policy: privacy-policy
 
 
 permalink: /:title
